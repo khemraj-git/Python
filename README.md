@@ -10,7 +10,8 @@ This repository contains all the Python projects I’m building to improve my sk
 | No. | Project Name        | Folder Name        | Description                                  | Status   |
 |-----|---------------------|--------------------|----------------------------------------------|----------|
 | 1   | Countdown Timer     | `countdown_timer`  | A simple terminal-based countdown timer      | ✅ Done   |
-| 2   |                     |                    |                                              | 🔜 Coming Soon |
+| 2   | Alarm Clock         | `alarm-clock`      | A simple terminal based alarmm clock with sound | ✅ Done  |
+|   |          |       |  |  🔜 |
 
 > ✅ = Completed | 🚧 = In Progress | 🔜 = Planned
 
