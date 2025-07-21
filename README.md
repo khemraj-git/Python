@@ -11,8 +11,8 @@ This repository contains all the Python projects I’m building to improve my sk
 |-----|---------------------|--------------------|----------------------------------------------|----------|
 | 1   | Countdown Timer     | `countdown_timer`  | A simple terminal-based countdown timer      | ✅ Done   |
 | 2   | Alarm Clock         | `alarm-clock`      | A simple terminal based alarmm clock with sound | ✅ Done  |
-|  3  |   API               |  `APIs`     | A simple project to showcase some  project using api |  ✅ Done |
-|     |                     |                    |                                               |  🔜        |
+|  3  |   API               |  `APIs`            | A  folder to showcase some  project using api |  ✅ Done |
+|   4  | Pandas             |       `Pandas`     |A  folder to showcase some  project using pandas  |  ✅ Done |
 
 
 > ✅ = Completed | 🚧 = In Progress | 🔜 = Planned
