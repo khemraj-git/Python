@@ -14,7 +14,7 @@ This repository contains all the Python projects I’m building to improve my sk
 |  3  |   API               |  `APIs`            | A  folder to showcase some  project using api |  ✅ Done |
 |   4  | Pandas             |       `Pandas`     |A  folder to showcase some  project using pandas  |  ✅ Done |
 |   5  | Numpy             |       `Numpy`     |A  folder to showcase some  project using Numpy  |  ✅ Done |
-|   6  | Matplotlib             |       `matplotlib`     |A  folder to showcase some  project using matplotlib  |  ✅ Done |
+|   6  | world population    |       `world population`     |A  folder where world population data has been analyzed  |  ✅ Done |
 
 
 > ✅ = Completed | 🚧 = In Progress | 🔜 = Planned
